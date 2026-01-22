@@ -171,5 +171,5 @@ else:
         "• Time Series Forecasting"
     )
 
-    st.markdown("👨‍🎓 **Presented by:** Abhishek Annigeri & Group")
+    st.markdown("👨‍🎓 **Presented by:** Abhishek Annigeri")
     st.markdown("📘 **Project:** P-633 Apple Stock Forecast")
